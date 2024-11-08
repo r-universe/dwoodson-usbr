@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "wxgenR"]
 	path = wxgenR
-	url = https://github.com/cran/wxgenR
+	url = https://github.com/dwoodson-usbr/wxgenr
